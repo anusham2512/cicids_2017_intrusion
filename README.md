@@ -1,6 +1,8 @@
 # cicids_2017_intrusion
-ML-based intrusion detection system using cicids-2017 dataset
+ML-based intrusion detection system using cicids-2017 dataset.
+
 This project is based on the paper "CICIDS-2017 Dataset Feature Analysis With Information Gain for Anomaly Detection" 
+
 Kurniabudi, D. Stiawan, Darmawijoyo, M. Y. Bin Idris, A. M. Bamhdi and R. Budiarto, "CICIDS-2017 Dataset Feature Analysis With Information Gain for Anomaly Detection," in IEEE Access, vol. 8, pp. 132911-132921, 2020, doi: 10.1109/ACCESS.2020.3009843.
 
 #overview
@@ -20,7 +22,7 @@ python 3.8+ , requirements.txt file
 
 #setup
 1.clone the repositorary
-git clone 
+git clone https://github.com/anusham2512/cicids_2017_intrusion
 
 2. create virtual enviroment
    python -m venv venv
